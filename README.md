@@ -1,11 +1,9 @@
 
 <p align="center">
-    preview do podcast
+    <h1>preview do podcast</h1>
 </p>
 
-<div align="center">
-    <audio src="Cap1-PdCast-Comp.mp3" controls title="Podcast editado"></audio>
-</div>
+
 <p>
 # Projeto Podcast Gerado por I.A.s
 
@@ -31,7 +29,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - [Link do Curso DIO](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/14404448-7f07-4145-aa33-7be543a13afe?back=/track/universia-fundamentos-de-ia-generativa)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-27f4aa989caf8156bdbce0a243070752)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
