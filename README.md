@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="Cap1-PdCast-Comp.mp3" controls title="Podcast editado"></audio>
 </div>
 <p>
 # Projeto Podcast Gerado por I.A.s
